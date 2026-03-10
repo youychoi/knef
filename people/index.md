@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}People
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our group brings together Korean researchers and professionals in the nuclear field based in New England. We are passionate about advancing nuclear science and technology, sharing knowledge, and building a supportive community for networking, collaboration, and mentorship.
 
 {% include section.html %}
 
