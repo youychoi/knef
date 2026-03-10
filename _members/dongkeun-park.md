@@ -1,6 +1,7 @@
 ---
 name: Dongkeun Park
 image: images/photo.jpg=
+affiliation: MIT PSFC
 role: Vice President
 links:
   email: dk_park@mit.edu
