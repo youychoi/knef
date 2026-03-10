@@ -6,8 +6,9 @@ affiliation: MIT PSFC
 aliases:
   - S.G. Baek
 links:
+  email: sgbaek@mit.edu
   home-page: https://psfc.mit.edu
   orcid: 0000-0001-8029-3525
 ---
 
-Seung Gyou Baek is a principal research scientist at MIT PSFC.
+Dr. Seung Gyou Baek is a principal research scientist at MIT PSFC.
