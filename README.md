@@ -5,6 +5,6 @@
 
   # youychoi's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[youychoi.github.io/knrne](https://youychoi.github.io/knrne)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
