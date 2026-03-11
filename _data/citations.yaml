@@ -1,265 +1,535 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1088/1741-4326/ae38f6
+  title: Spherical tokamak physics research in preparation for the operation of NSTX-U
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: openRxiv
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  - S. Munaretto
+  - P.O. Adebayo-Ige
+  - H. Anand
+  - G. Avdeeva
+  - S.G. Baek
+  - K. Barada
+  - E. Belli
+  - E.V. Belova
+  - J.W. Berkery
+  - T.N. Bernard
+  - N. Bertelli
+  - P. Bonofiglo
+  - P.T. Bonoli
+  - M.D. Boyer
+  - J. Candy
+  - C.S. Chang
+  - H. Chung
+  - C. Clauser
+  - M. Comanescu
+  - D. Corona
+  - N.A. Crocker
+  - R. De Levante Rodriguez
+  - E.W. DeShazer
+  - A. Diallo
+  - J. Dominski
+  - V.N. Duarte
+  - F. Ebrahimi
+  - E.D. Emdee
+  - S. Ethier
+  - N.M. Ferraro
+  - E.L. Foley
+  - E.D. Fredrickson
+  - M.E. Galante
+  - K.F. Gan
+  - S. Gerhardt
+  - R.J. Goldston
+  - M. Gorelenkova
+  - W. Guttenfelder
+  - R. Hager
+  - F.D. Halpern
+  - J. Halpern
+  - D. Hatch
+  - F. Hoffmann
+  - M.S. Islam
+  - S.C. Jardin
+  - S.M. Kaye
+  - A. Khodak
+  - J.E. Kinsey
+  - A. Kleiner
+  - E. Kolemen
+  - S. Ku
+  - M. Lampert
+  - B. Leard
+  - B.P. LeBlanc
+  - J.B. Lestz
+  - F.M. Levinton
+  - P.-Y. Li
+  - N.C. Logan
+  - N.A. Lopez
+  - R. Lunsford
+  - T. Macwan
+  - R. Maingi
+  - J. McClenaghan
+  - A.G. McLean
+  - J.E. Menard
+  - Y.-S. Na
+  - A.O. Nelson
+  - M. Ono
+  - A. Pajares
+  - A. Pankin
+  - J. Parisi
+  - F.I. Parra
+  - M.S. Parsons
+  - B.S. Patel
+  - "M. Podest\xE1"
+  - F.M. Poli
+  - M. Porcelli
+  - T. Rafiq
+  - R. Raman
+  - J.D. Riquezes
+  - S.A. Sabbagh
+  - A. Sanchez-Villar
+  - E. Schuster
+  - S. Shiraiwa
+  - T. Singh
+  - S.P. Smith
+  - D. Smith
+  - V.A. Soukhanovskii
+  - G.M. Staebler
+  - B. Stratton
+  - K.E. Thome
+  - M. Tobin
+  - I.U. Uzun-Kaymak
+  - B. Van Compernolle
+  - W.X. Wang
+  - W. Wehner
+  - A.S. Welander
+  - B.D. Wirth
+  - J. Yang
+  - V. Zamkovska
+  - X. Zhang
+  publisher: Nuclear Fusion
+  date: '2026-02-02'
+  link: https://doi.org/hbr3ss
+  orcid: 0000-0001-8029-3525
+  seung-gyou-back: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1088/1741-4326/ae4919
+  title: Characterizing core and edge turbulence regimes with fluctuation imaging
+    diagnostics in Wendelstein 7-X
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Adrian von Stechow
+  - Seung Gyou Baek
+  - "Jan-Peter B\xE4ehner"
+  - Sean Bozkurt Ballinger
+  - Dario Cipciar
+  - Eric Matthias Edlund
+  - Golo Fuchert
+  - Olaf Grulke
+  - Tomas, Tomie Gonda
+  - "S\xF8ren Kjer Hansen"
+  - Carsten Killer
+  - Sehyun Kwak
+  - Maciej Krychowiak
+  - Andreas Langenberg
+  - Novimir Antoniuk Pablant
+  - Ekkehard Pasch
+  - Andrea Pavone
+  - Miklos Porkolab
+  - Jakob Svensson
+  - Jim L Terry
+  - Daihong Zhang
+  publisher: Nuclear Fusion
+  date: '2026-02-23'
+  link: https://doi.org/hbr3st
+  orcid: 0000-0001-8029-3525
+  seung-gyou-back: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1088/1402-4896/ae08fc
+  title: Effects of midplane density gradient in the propagation of high-harmonic
+    fast waves considering high temperature anisotropy in the scrape-off layer of
+    NSTX-U
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: openRxiv
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Ricardo De Levante Rodriguez
+  - Seung-Gyou Baek
+  - "Syun\u2019ichi Shiraiwa"
+  - Nicola Bertelli
+  - Paul Bonoli
+  publisher: Physica Scripta
+  date: '2025-10-01'
+  link: https://doi.org/hbr3sv
+  orcid: 0000-0001-8029-3525
+  seung-gyou-back: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1088/1741-4326/adc9c0
+  title: Electric fields and stationary drift flows in the island divertor SOL of
+    Wendelstein 7-X
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Carsten Killer
+  - Dario Cipciar
+  - Seung Gyou Baek
+  - Sean B. Ballinger
+  - Adrian von Stechow
+  - James L. Terry
+  - Olaf Grulke
+  publisher: Nuclear Fusion
+  date: '2025-04-17'
+  link: https://doi.org/hbr3sw
+  orcid: 0000-0001-8029-3525
+  seung-gyou-back: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1088/1741-4326/adc287
+  title: Modeling study of synergistic effects between lower hybrid and electron cyclotron
+    current drive on EAST
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - S.G. Baek
+  - M.H. Li
+  - W. Choi
+  - P.T. Bonoli
+  - B.J. Ding
+  - A. Garofalo
+  - G.M. Wallace
+  - M. Wang
+  - H. Xu
+  - Q. Zang
+  - H. Zhao
+  publisher: Nuclear Fusion
+  date: '2025-03-31'
+  link: https://doi.org/hbr3sx
+  orcid: 0000-0001-8029-3525
+  seung-gyou-back: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1088/1741-4326/ad3092
+  title: NSTX-U research advancing the physics of spherical tokamaks
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - J.W. Berkery
+  - P.O. Adebayo-Ige
+  - H. Al Khawaldeh
+  - G. Avdeeva
+  - S-G. Baek
+  - S. Banerjee
+  - K. Barada
+  - D.J. Battaglia
+  - R.E. Bell
+  - E. Belli
+  - E.V. Belova
+  - N. Bertelli
+  - N. Bisai
+  - P.T. Bonoli
+  - M.D. Boyer
+  - J. Butt
+  - J. Candy
+  - C.S. Chang
+  - C.F. Clauser
+  - L.D. Corona Rivera
+  - M. Curie
+  - P.C. de Vries
+  - R. Diab
+  - A. Diallo
+  - J. Dominski
+  - V.N. Duarte
+  - E.D. Emdee
+  - N.M. Ferraro
+  - R. Fitzpatrick
+  - E.L. Foley
+  - E. Fredrickson
+  - M.E. Galante
+  - K.F. Gan
+  - S. Gerhardt
+  - R. Goldston
+  - W. Guttenfelder
+  - R. Hager
+  - M.O. Hanson
+  - S.C. Jardin
+  - T.G. Jenkins
+  - S.M. Kaye
+  - A. Khodak
+  - J. Kinsey
+  - A. Kleiner
+  - E. Kolemen
+  - S. Ku
+  - M. Lampert
+  - B. Leard
+  - B.P. LeBlanc
+  - J.B. Lestz
+  - F.M. Levinton
+  - C. Liu
+  - T. Looby
+  - R. Lunsford
+  - T. Macwan
+  - R. Maingi
+  - J. McClenaghan
+  - J.E. Menard
+  - S. Munaretto
+  - M. Ono
+  - A. Pajares
+  - J. Parisi
+  - J-K. Park
+  - M.S. Parsons
+  - B.S. Patel
+  - Y.V. Petrov
+  - "M. Podest\xE0"
+  - F. Poli
+  - M. Porcelli
+  - T. Rafiq
+  - S.A. Sabbagh
+  - "\xC1. S\xE1nchez Villar"
+  - E. Schuster
+  - J. Schwartz
+  - A. Sharma
+  - S. Shiraiwa
+  - P. Sinha
+  - D. Smith
+  - S. Smith
+  - V.A. Soukhanovskii
+  - G. Staebler
+  - E. Startsev
+  - B. Stratton
+  - K.E. Thome
+  - W. Tierens
+  - M. Tobin
+  - I.U. Uzun-Kaymak
+  - B. Van Compernolle
+  - J. Wai
+  - W. Wang
+  - W. Wehner
+  - A. Welander
+  - J. Yang
+  - V. Zamkovska
+  - X. Zhang
+  - X.L. Zhu
+  - S. Zweben
+  publisher: Nuclear Fusion
+  date: '2024-08-15'
+  link: https://doi.org/g9grh9
+  orcid: 0000-0001-8029-3525
+  seung-gyou-back: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1063/5.0219336
+  title: Realization of a gas puff imaging system on the Wendelstein 7-X stellarator
   authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
-  - Jacob D Krol
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: openRxiv
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - J. L. Terry
+  - A. von Stechow
+  - S. G. Baek
+  - S. B. Ballinger
+  - O. Grulke
+  - C. von Sehren
+  - R. Laube
+  - C. Killer
+  - F. Scharmer
+  - K. J. Brunner
+  - J. Knauer
+  - S. Bois
+  publisher: Review of Scientific Instruments
+  date: '2024-09-01'
+  link: https://doi.org/hbr3sz
+  orcid: 0000-0001-8029-3525
+  seung-gyou-back: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1063/5.0088216
+  title: Deep modeling of plasma and neutral fluctuations from gas puff turbulence
+    imaging
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - A. Mathews
+  - J. L. Terry
+  - S. G. Baek
+  - J. W. Hughes
+  - A. Q. Kuang
+  - B. LaBombard
+  - M. A. Miller
+  - D. Stotler
+  - D. Reiter
+  - W. Zholobenko
+  - M. Goto
+  publisher: Review of Scientific Instruments
+  date: '2022-06-01'
+  link: https://doi.org/hbr3s2
+  orcid: 0000-0001-8029-3525
+  seung-gyou-back: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1063/5.0077657
+  title: Simulated effect of edge plasma density parameters on lower hybrid wave scattering
+    in EAST
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
+  - C. B. Wu
+  - B. J. Ding
+  - S. G. Baek
+  - M. H. Li
+  - G. M. Wallace
+  - Y. C. Li
+  - G. H. Yan
+  publisher: Physics of Plasmas
+  date: '2022-02-01'
+  link: https://doi.org/hbr3s3
+  orcid: 0000-0001-8029-3525
+  seung-gyou-back: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1741-4326/ac2278
+  title: A model investigation of the impact of lower hybrid wave scattering angle
+    on current drive profile in EAST and Alcator C-Mod
+  authors:
+  - S.G. Baek
+  - B. Biswas
+  - G.M. Wallace
+  - P.T. Bonoli
+  - B.J. Ding
+  - M.H. Li
+  - Y.C. Li
+  - Y.F. Wang
+  - M. Wang
+  - C.B. Wu
+  - G.H. Yan
+  - J. Chen
+  - X. Zhai
+  - A.M. Garofalo
+  - W. Choi
+  - F. Poli
+  - S. Shiraiwa
+  publisher: Nuclear Fusion
+  date: '2021-09-20'
+  link: https://doi.org/gmq5s8
+  orcid: 0000-0001-8029-3525
+  seung-gyou-back: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/S0022377821001033
+  title: A hybrid full-wave Markov chain approach to calculating radio-frequency wave
+    scattering from scrape-off layer filaments
+  authors:
+  - Bodhi Biswas
+  - Syun'ichi Shiraiwa
+  - Seung-Gyou Baek
+  - Paul Bonoli
+  - Abhay Ram
+  - Anne E. White
+  publisher: Journal of Plasma Physics
+  date: '2021-10-01'
+  link: https://doi.org/gngkwx
+  orcid: 0000-0001-8029-3525
+  seung-gyou-back: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/5.0053459
+  title: Modeling the spectral modification of lower hybrid wave in the presence of
+    drift-wave type density fluctuation in the scrape-off-layer of the EAST tokamak
+  authors:
+  - C. B. Wu
+  - B. J. Ding
+  - M. H. Li
+  - S. G. Baek
+  - G. M. Wallace
+  - Y. C. Li
+  - G. H. Yan
+  - S. C. Liu
+  publisher: Physics of Plasmas
+  date: '2021-08-01'
+  link: https://doi.org/grqf2j
+  orcid: 0000-0001-8029-3525
+  seung-gyou-back: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/5.0041271
+  title: Observation of synergy between lower hybrid waves at two frequencies in EAST
+  authors:
+  - W. Choi
+  - F. M. Poli
+  - M. H. Li
+  - S. G. Baek
+  - M. Gorenlenkova
+  - B. J. Ding
+  - X. Z. Gong
+  - A. Chan
+  - Y. M. Duan
+  - J. H. Hu
+  - H. Lian
+  - S. Y. Lin
+  - H. Q. Liu
+  - J. P. Qian
+  - G. Wallace
+  - Y. M. Wang
+  - Q. Zang
+  - H. L. Zhao
+  publisher: Physics of Plasmas
+  date: '2021-07-01'
+  link: https://doi.org/gtr8j6
+  orcid: 0000-0001-8029-3525
+  seung-gyou-back: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.5144673
+  title: Diagnostic development for parallel wave-number measurement of lower hybrid
+    waves in EAST
+  authors:
+  - Y. F. Wang
+  - B. J. Ding
+  - M. H. Li
+  - S. G. Baek
+  - G. M. Wallace
+  - L. Liu
+  - L. M. Zhao
+  - M. Wang
+  - Z. G. Wu
+  - F. K. Liu
+  - J. F. Shan
+  - X. J. Zhang
+  - Y. C. Li
+  - C. B. Wu
+  publisher: Review of Scientific Instruments
+  date: '2020-07-01'
+  link: https://doi.org/hbr3s4
+  orcid: 0000-0001-8029-3525
+  seung-gyou-back: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijheatmasstransfer.2025.128136
+  title: Numerical study on boiling crisis and fluid-elastic instability of helical
+    cruciform fuel
+  authors:
+  - Youyeon Choi
+  - Koroush Shirvan
+  publisher: International Journal of Heat and Mass Transfer
+  date: '2026-03-01'
+  link: https://doi.org/hbr3s5
+  orcid: 0000-0001-9395-2796
+  youyeon-choi: true
   plugin: sources.py
   file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
+- id: doi:10.1016/j.anucene.2024.111068
+  title: Coupled simulation for pin-wise reactor core analysis using subchannel analysis
+    code CUPID and fuel performance code GIFT
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
+  - Yeong Hun Lee
+  - Jangkeun Park
+  - Youyeon Choi
+  - Kyuseok Sim
+  - Youho Lee
+  - Hyoung Kyu Cho
+  publisher: Annals of Nuclear Energy
+  date: '2025-04-01'
+  link: https://doi.org/hbr3s6
+  orcid: 0000-0001-9395-2796
+  youyeon-choi: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1016/j.nme.2025.101937
+  title: Gas puff imaging of plasma turbulence in the magnetic island scrape-off layer
+    of W7-X
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - S.G. Baek
+  - S. Ballinger
+  - O. Grulke
+  - C. Killer
+  - A. von Stechow
+  - J.L. Terry
+  - F. Scharmer
+  - B. Shanahan
+  publisher: Nuclear Materials and Energy
+  date: '2025-06-01'
+  link: https://doi.org/hbr3s7
   plugin: sources.py
   file: sources.yaml
