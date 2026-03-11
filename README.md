@@ -5,6 +5,6 @@
 
   # Korean New England Nuclear & Fusion Network(KNEF)'s Website
 
-  Visit **[youychoi.github.io/knrne](https://youychoi.github.io/knrne)** 🚀
+  Visit **[youychoi.github.io/knef](https://youychoi.github.io/knef)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
