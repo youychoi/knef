@@ -11,7 +11,6 @@ We welcome questions, collaboration ideas, and new members interested in the Kor
 {%
   include button.html
   type="email"
-  text="Email"
+  text="Email to President"
   link="baekmit@gmail.com"
 %}
-
