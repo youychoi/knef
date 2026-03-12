@@ -51,7 +51,7 @@ Meet our members shaping the Korean nuclear research community in New England.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/250613_seminar4.JPG"
   link="people"
   title="Our People"
   text=text
